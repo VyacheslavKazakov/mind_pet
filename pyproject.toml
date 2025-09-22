@@ -1,9 +1,10 @@
 [project]
 name = "mind-pet"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.0.1"
+description = "Smart chatbot companion for thoughtful people"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "mypy>=1.18.2",
     "ruff>=0.13.0",
 ]
